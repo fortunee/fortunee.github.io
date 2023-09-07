@@ -1,1 +1,2 @@
-# Fortune Ekeruo
+# Fortune Ekeruo 
+### Deprecated
